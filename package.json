@@ -6,6 +6,12 @@
   "repository": "https://github.com/tony-tsx/cookiex-deep",
   "author": "Tony <tony.js@zoho.eu>",
   "license": "MIT",
+  "keywords": [
+    "object",
+    "typescript",
+    "assign",
+    "deep"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "yarn build"
