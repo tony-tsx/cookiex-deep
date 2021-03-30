@@ -1,6 +1,6 @@
 {
   "name": "@cookiex/deep",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Tool to manage assign with recursive",
   "main": "dist/index.js",
   "repository": "https://github.com/tony-tsx/cookiex-deep",
